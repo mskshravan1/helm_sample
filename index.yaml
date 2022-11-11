@@ -9,6 +9,6 @@ entries:
     name: nginx
     type: application
     urls:
-    - https://mskshravan1.github.io/helm-sample/nginx-0.1.0.tgz
+    - https://mskshravan1.github.io/helm_sample/nginx-0.1.0.tgz
     version: 0.1.0
 generated: "2022-11-11T11:14:13.98655845+05:30"
